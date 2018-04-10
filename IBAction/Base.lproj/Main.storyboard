@@ -26,6 +26,7 @@
                                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         <state key="normal" title="Button"/>
                                         <connections>
+                                            <action selector="doSomething:" destination="7bo-hv-6Wn" eventType="touchUpInside" id="vCa-Qe-N5Q"/>
                                             <action selector="doSomething:" destination="BYZ-38-t0r" eventType="touchUpInside" id="xFU-N8-fdI"/>
                                         </connections>
                                     </button>

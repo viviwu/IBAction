@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4F404621207C66C300FF4DCE /* OweView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F404620207C66C300FF4DCE /* OweView.m */; };
+		4F404623207C66D200FF4DCE /* OweView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4F404622207C66D200FF4DCE /* OweView.xib */; };
 		4FFCB58C2074D711004E48E0 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4FFCB58B2074D711004E48E0 /* AppDelegate.m */; };
 		4FFCB58F2074D711004E48E0 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4FFCB58E2074D711004E48E0 /* ViewController.m */; };
 		4FFCB5922074D711004E48E0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4FFCB5902074D711004E48E0 /* Main.storyboard */; };
@@ -38,6 +40,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4F40461F207C66C300FF4DCE /* OweView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = OweView.h; sourceTree = "<group>"; };
+		4F404620207C66C300FF4DCE /* OweView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OweView.m; sourceTree = "<group>"; };
+		4F404622207C66D200FF4DCE /* OweView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = OweView.xib; sourceTree = "<group>"; };
 		4FFCB5872074D711004E48E0 /* IBAction.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IBAction.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4FFCB58A2074D711004E48E0 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		4FFCB58B2074D711004E48E0 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -118,6 +123,9 @@
 				4FFCB5C22074DA1E004E48E0 /* WXView.h */,
 				4FFCB5C32074DA1E004E48E0 /* WXView.m */,
 				4FFCB5C52074DA2E004E48E0 /* WXView.xib */,
+				4F40461F207C66C300FF4DCE /* OweView.h */,
+				4F404620207C66C300FF4DCE /* OweView.m */,
+				4F404622207C66D200FF4DCE /* OweView.xib */,
 				4FFCB5902074D711004E48E0 /* Main.storyboard */,
 				4FFCB5932074D712004E48E0 /* Assets.xcassets */,
 				4FFCB5952074D712004E48E0 /* LaunchScreen.storyboard */,
@@ -250,6 +258,7 @@
 			files = (
 				4FFCB5972074D712004E48E0 /* LaunchScreen.storyboard in Resources */,
 				4FFCB5C62074DA2E004E48E0 /* WXView.xib in Resources */,
+				4F404623207C66D200FF4DCE /* OweView.xib in Resources */,
 				4FFCB5942074D712004E48E0 /* Assets.xcassets in Resources */,
 				4FFCB5922074D711004E48E0 /* Main.storyboard in Resources */,
 			);
@@ -278,6 +287,7 @@
 			files = (
 				4FFCB58F2074D711004E48E0 /* ViewController.m in Sources */,
 				4FFCB59A2074D712004E48E0 /* main.m in Sources */,
+				4F404621207C66C300FF4DCE /* OweView.m in Sources */,
 				4FFCB58C2074D711004E48E0 /* AppDelegate.m in Sources */,
 				4FFCB5C12074D827004E48E0 /* XWView.m in Sources */,
 				4FFCB5C42074DA1E004E48E0 /* WXView.m in Sources */,

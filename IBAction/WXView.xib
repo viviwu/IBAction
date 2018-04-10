@@ -21,7 +21,7 @@
                     <color key="backgroundColor" red="0.92426327720000001" green="0.88306927010000003" blue="0.26829572800000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                     <state key="normal" title="Button"/>
                     <connections>
-                        <action selector="dodo:" destination="-2" eventType="touchDown" id="JVa-KL-w6d"/>
+                        <action selector="dodo:" destination="-1" eventType="touchUpInside" id="cHc-eP-5Mu"/>
                         <action selector="dodo:" destination="iN0-l3-epB" eventType="touchUpInside" id="t4q-Ds-Dxw"/>
                     </connections>
                 </button>
